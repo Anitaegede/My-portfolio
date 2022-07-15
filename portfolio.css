@@ -37,4 +37,19 @@ section{
     width: 250px;
     height: 250px;
      border-radius: 50%;
-}             
+} #love{
+    background-color: #FF6464;
+    color: white;
+    padding: 20px;
+    border-style: none;
+    }
+    
+    #sect-div{
+        display: flex;
+        flex-direction:row-reverse;
+        background-color: blue;
+    }
+    #rsect{
+        display: flex;
+        flex-direction: row;
+    }            
