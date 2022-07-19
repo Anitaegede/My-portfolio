@@ -47,3 +47,47 @@
     padding: 20px;
     border-style: none;
 }
+#sect-div{
+    display: flex;
+    justify-content:space-between ;
+    align-items: center;
+    margin: 20px 20px;
+    text-decoration: none;
+    list-style:none ;
+     }
+#lsect{
+    display: flex;
+    justify-content: space-between;
+    align-items:center ;
+}
+#rsect{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#twosect{
+display: flex;
+ justify-content: space-between;
+ 
+}  
+#threesect{
+display: flex;
+justify-content: space-between;
+
+
+}
+#sect-two{
+background-color: bisque;
+padding: 30px;
+}
+#list{
+list-style: none;
+text-decoration: none;
+}
+#sectionl img{
+width: 200px;
+height: 60px;
+}
+#sectionr{
+display: flex;
+}
