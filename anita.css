@@ -1,0 +1,99 @@
+
+
+
+.home-ul{
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    justify-content:flex-end; 
+    padding:0 40px ;
+    
+} 
+.home-a {
+    color: black;
+    font-size:20px ;
+    padding: 0px 10px ;
+    font-weight: 500;
+    font-family: 'Heebo', sans-serif;
+    list-style:none ;
+    text-decoration: none;
+
+}
+.active{
+    color: #FF6464;
+}
+#leftsection {
+    padding:50px 0 ;
+    width: 50%;
+}
+ #rightsection{ 
+    padding: 50px 0;
+    width:50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#sect-one{
+    padding: 0 40px;
+    display:flex;
+    width: 100%;
+    justify-content: space-between;
+    }  
+#rightsection img{
+    width: 250px;
+    height: 250px;
+     border-radius: 50%;
+}             
+#love{
+
+    background-color: #FF6464;
+    color: white;
+    padding: 20px;
+    border-style: none;
+    }
+    #sect-div{
+        display: flex;
+        justify-content:space-between ;
+        align-items: center;
+        margin: 20px 20px;
+        text-decoration: none;
+        list-style:none ;
+         }
+    #lsect{
+        display: flex;
+        justify-content: space-between;
+        align-items:center ;
+        background-color: white;
+    }
+    #rsect{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background-color: white;
+    }
+ #twosect{
+    display: flex;
+     justify-content: space-between;
+     
+ }  
+ #threesect{
+    display: flex;
+    justify-content: space-between;
+    
+
+ }
+ #sect-two{
+    background-color: bisque;
+    padding: 30px;
+}
+ #list{
+    list-style: none;
+    text-decoration: none;
+ }
+ #sectionl img{
+    width: 200px;
+    height: 60px;
+ }
+ #sectionr{
+    display: flex;
+ }
